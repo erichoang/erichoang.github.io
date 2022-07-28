@@ -221,7 +221,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: Nguyen
-  first_name: [Hoang, H.]
+  first_name: [Hoang H.]
 
   style: apa
   locale: en
