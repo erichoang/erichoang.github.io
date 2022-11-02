@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hoang H. Nguyen has joined the L3S Research Center of Leibniz University Hannover as a researcher and PhD candidate since February 2020. He was a visiting student and then a research associate in the School of Computing and Information Systems, Singapore Management University, from 2016 to 2018. In 2017, he received 
+Hoang H. Nguyen has joined the L3S Research Center of Leibniz University Hannover as a researcher and PhD candidate since February 2020. He was a visiting student and then a research associate at the School of Computing and Information Systems, Singapore Management University, from 2016 to 2018. In 2017, he received 
 <!-- his Bachelor of Science degree in Electronics and Telecommunications from Ho Chi Minh City University of Science (HCMUS), Vietnam, in 2013, and  -->
 his Master of Engineering degree in Computer Science from Ho Chi Minh City University of Technology (HCMUT), Vietnam.
 
