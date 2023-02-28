@@ -3,7 +3,7 @@ layout: page
 title: LibraryGuru
 description: LibraryGuru internally builds correlation databases among various functionality descriptions and Android APIs. These correlations are extracted from Android development tutorials, and SDK documents with domain-specific code parsing and natural language processing techniques adapted for functional APIs and event callback APIs separately and are matched against functionality queries to recommend relevant APIs for developers. 
 img: assets/img/libraryguru_logo_850x460.png
-importance: 2
+importance: 3
 category: research
 ---
 

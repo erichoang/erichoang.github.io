@@ -3,7 +3,7 @@ layout: page
 title: SoChainDB
 description: SoChainDB framework facilitates obtaining data from blockchain-powered social networks. To show the capacity and strength of SoChainDB, we crawl and publish Hive data - one of the largest blockchain-based social networks. SoChainDB is publicly accessible at http://sochaindb.com, and the dataset is available under the CC BY-SA 4.0 license. 
 img: assets/img/sochaindb_logo_850x460.png
-importance: 1
+importance: 2
 category: research
 ---
 
