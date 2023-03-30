@@ -2,6 +2,9 @@ github_users:
   - erichoang
 
 github_repos:
-  - SOCHAINDB/hive-db
   - MANDO-Project/ge-sc
   - MANDO-Project/ge-sc-machine
+  - MANDO-Project/ge-sc-transformer
+  - SOCHAINDB/hive-db
+  - erichoang/criminal-network-visualization
+  - erichoang/criminal-link-prediction
