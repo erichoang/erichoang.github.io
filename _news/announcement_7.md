@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-04-03
+date: 2023-04-28
 inline: true
 ---
 
-"Real-Time Multi-Vehicle Multi-Camera Tracking With Graph Based Tracklet Features" paper has been accepted for publication in the [Transportation Research Record](https://journals.sagepub.com/home/trr) journal.
+"Multi-Vehicle Multi-Camera Tracking With Graph Based Tracklet Features" paper has been accepted for publication in the [IEEE Transactions on Multimedia](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia) journal.
