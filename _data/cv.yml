@@ -11,6 +11,11 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Computer Science
+      institution: Leibniz University Hannover, Germany
+      year: Ongoing
+      description:
+        - Thesis - Graph Representation Learning for Security Analytics in Decentralized Software Systems and Social Networks
     - title: Master of Engineering in Computer Science
       institution: HCMC University of Technology - HCMUT, Vietnam
       year: 2017
