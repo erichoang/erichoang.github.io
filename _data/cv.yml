@@ -35,17 +35,18 @@
       institution: L3S Research Center, Leibniz University Hannover, Germany
       year: 2020 - Now
       description:
-        - Applying graph embeddings and deep learning for social network analysis to establish or predict unobserved connections of the entities such as persons, organizations, and locations, to enhance investigation capabilities for large criminal cases
-        - Applying graph learning on control-flow graphs, program call graphs, and data dependency for vulnerability detection in blockchain smart contracts
-        - Building a database for storing and retrieving blockchain-powered social network data, which is suitable for the analytics of massive-scale social networks and cross-domain user behaviors
+        - Utilizing graph embeddings to enhance investigative capabilities by predicting unseen connections in crimnal networks
+        - Employing graph representation learning for vulnerability detection in blockchain smart contracts
+        - Applying graph neural networks to analyze data from cubelet sensors to enhance the accuracy of predicting multiple object trajectories
+        - Developing a database to manage and analyze large-scale blockchain-powered social network data
 
     - title: Research Collaborator
       institution: HCMC University of Technology - HCMUT, Vietnam
       year: 2018 - 2019
       description:
-        - Modeling of control flow and data dependency of Ethereum smart contracts
-        - Using machine learning techniques to analyze security vulnerabilities in transaction data of Bitcoin and Ethereum networks
-        - Analyzing real-time data of warehouse and transportation management systems, which integrate to Ethereum and EOS blockchain
+        - Modeling Ethereum smart contracts' control flow and data dependency
+        - Applying machine learning to analyze Bitcoin and Ethereum transaction security vulnerabilities
+        - Analyzing real-time data of warehouse and transportation management systems integrated with Ethereum and EOS blockchain
 
     - title: Research Associate
       institution: Singapore Management University, Singapore
@@ -81,16 +82,33 @@
         - Designing new techniques for floating apps
         - Building apps related to Android Launcher, NFC, Call Blocker, and Location
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+- title: Reviews
+  type: time_table
+  contents: 
+    - year: 2023
+      items:
+        - Knowledge-Based Systems journal, Elsevier, 2023
+        - 38th AAAI Conference on Artificial Intelligence 2024 (AAAI 2024, Vancouver, Canada, February 20-27, 2024)
+        - Information and Software Technology journal, Elsevier, 2023
+        - Blockchain - Research and Applications journal, Zhejiang University Press, 2023
+        - IEEE Transactions on Multimedia journal, IEEE, 2023
+    - year: 2022
+      items:
+        - 37th AAAI Conference on Artificial Intelligence 2023 (AAAI 2023, Washington DC, USA, February 7-24, 2023)
+    - year: 2020
+      items:
+        - Digital Transformation and Global Society 2020 (DTGS 2020, St. Petersburg, Russia, June 24-26, 2020)
+    - year: 2018
+      items:
+        - 40th International Conference on Software Engineering 2018 (ICSE 2018, Gothenburg, Sweden, May 27 - June 03, 2018)
 
 - title: Achievements
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - Two L3S Best Paper Awards, L3S Research Center, Leibniz University Hannover
+        - SIGSOFT CAPS - ICSE 2023 Travel Grants, 45th International Conference on Software Engineering, ICSE 2023
     - year: 2018
       items: 
         - Silver Award $7000 at Blockchain Hackathon, Vietnam Blockchain Hub
@@ -108,7 +126,7 @@
       items:
         - Machine Learning 
         - Graph Learning
-        - Multimodal Network Analysis
+        - Social Network Analysis
     - title: Software Engineering
       items:
         - Program Analysis
