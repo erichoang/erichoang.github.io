@@ -35,7 +35,7 @@
       institution: L3S Research Center, Leibniz University Hannover, Germany
       year: 2020 - 2024
       description:
-        - Utilizing graph embeddings to enhance investigative capabilities by predicting unseen connections in crimnal networks
+        - Utilizing graph embeddings to enhance investigative capabilities by predicting unseen connections in criminal networks
         - Employing graph representation learning for vulnerability detection in blockchain smart contracts
         - Applying graph neural networks to analyze data from cubelet sensors to enhance the accuracy of predicting multiple object trajectories
         - Developing a database to manage and analyze large-scale blockchain-powered social network data

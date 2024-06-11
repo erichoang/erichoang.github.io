@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href='https://www.l3s.de/en'>L3S Research Center, Leibniz University Hannover</a>.
+subtitle: Dr. rer. nat, Researcher at <a href='https://www.l3s.de/en'>L3S Research Center, Leibniz University Hannover</a>.
 
 profile:
   align: right
@@ -19,10 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hoang H. Nguyen (Eric Hoang) has joined the L3S Research Center of Leibniz University Hannover as a researcher and PhD candidate since February 2020. He was a visiting student and then a research associate at the School of Computing and Information Systems, Singapore Management University, from 2016 to 2018. In 2017, he received 
-<!-- his Bachelor of Science degree in Electronics and Telecommunications from Ho Chi Minh City University of Science (HCMUS), Vietnam, in 2013, and  -->
-his Master of Engineering degree in Computer Science from Ho Chi Minh City University of Technology (HCMUT), Vietnam.
+Dr. Hoang H. Nguyen (Eric Hoang) joined the L3S Research Center of Leibniz University Hannover as a researcher from February 2020 to July 2024. He was a visiting student and then a research associate at the School of Computing and Information Systems, Singapore Management University, from 2016 to 2018. In 2017, he received his Master of Engineering degree in Computer Science from Ho Chi Minh City University of Technology (HCMUT), Vietnam. He received his Dr. rer. nat. degree in Computer Science from Leibniz University Hannover, Germany in June 2024.
 
-Nguyen has 10+ years of experience in Software Engineering and Graph Mining in the industry and academia. At L3S Research Center, he collaborates with researchers and law enforcement agencies (LEAs) from over fifteen countries and territories to develop new platforms to speed up investigative processes and support LEA decision-making. He also builds frameworks for storing and retrieving blockchain-powered social network data and detecting vulnerabilities in blockchain smart contracts. 
+Dr. Nguyen has 10+ years of experience in Software Engineering and Graph Mining in the industry and academia. At L3S Research Center, he collaborates with researchers and law enforcement agencies (LEAs) from over fifteen countries and territories to develop new platforms to speed up investigative processes and support LEA decision-making. He also builds frameworks for storing and retrieving blockchain-powered social network data and detecting vulnerabilities in blockchain smart contracts.
 
-His current research interests include Graph Mining, Machine Learning, Multimodal Network Analysis, Program Analysis, Software Security, and Blockchain Smart Contracts.
+His research interests include Graph Mining, Machine Learning, Social Network Analysis, Program Analysis, Software Security, and Blockchain Smart Contracts.
