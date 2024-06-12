@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Hoang
 middle_name: H.
 last_name: Nguyen
-email: dr.hoang.nguyen@hoanghnguyen.com
+email: dr.hhn@hoanghnguyen.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to the homepage of Dr. Hoang H. Nguyen, a researcher, developer, and father of two.
 footer_text: >
@@ -84,7 +84,7 @@ dblp_url: https://dblp.uni-trier.de/pid/200/9071.html # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  The best way to reach me is via my email (dr dot hoang dot nguyen at hoanghnguyen dot com).
+  The best way to reach me is via my email (dr dot hhn at hoanghnguyen dot com).
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
