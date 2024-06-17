@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Dr. rer. nat. (Ph.D.) in Computer Science | Researcher in Machine Learning, Graph Mining & Software Security at <a href='https://www.l3s.de/en'>L3S Research Center, Leibniz University Hannover</a>.
+subtitle: Dr. rer. nat. (Ph.D.) in Computer Science | Researcher in Machine Learning, Graph Learning & Software Security at <a href='https://www.l3s.de/en'>L3S Research Center, Leibniz University Hannover</a>.
 
 profile:
   align: right
@@ -23,4 +23,4 @@ Dr. Hoang H. Nguyen (Eric Hoang) joined the L3S Research Center at Leibniz Unive
 
 Dr. Nguyen has over 10 years of experience in Software Engineering and Graph Mining in both industry and academia. At the L3S Research Center, he collaborates with researchers and law enforcement agencies (LEAs) from more than fifteen countries and territories to develop new platforms that expedite investigative processes and support LEA decision-making. He also builds frameworks for storing and retrieving blockchain-powered social network data and detecting vulnerabilities in blockchain smart contracts.
 
-His research interests include Graph Mining, Machine Learning, Social Network Analysis, Program Analysis, Software Security, and Blockchain Smart Contracts.
+His research interests include Graph Mining, Machine Learning, Graph Learning, Social Network Analysis, Program Analysis, Software Security, and Blockchain Smart Contracts.
