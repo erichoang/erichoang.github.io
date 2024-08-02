@@ -31,6 +31,15 @@
 - title: Working Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: Center for Urban Informatics and Progress, University of Tennessee at Chattanooga, USA
+      year: 2024 - Present
+      description:
+        - Focus on federated learning to advance research and application in the field
+        - Develop modern machine learning solutions for trajectory prediction at traffic intersections
+        - Utilize decentralized data sources to improve prediction accuracy and reliability in real-world scenarios
+        - Ensure solutions adhere to privacy and security standards throughout the development process, maintaining the integrity of sensitive data
+
     - title: Doctoral Researcher
       institution: L3S Research Center, Leibniz University Hannover, Germany
       year: 2020 - 2024
