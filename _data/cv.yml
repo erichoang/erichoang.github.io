@@ -35,10 +35,9 @@
       institution: Center for Urban Informatics and Progress, University of Tennessee at Chattanooga, USA
       year: 2024 - Present
       description:
-        - Focus on federated learning to advance research and application in the field
-        - Develop modern machine learning solutions for trajectory prediction at traffic intersections
-        - Utilize decentralized data sources to improve prediction accuracy and reliability in real-world scenarios
-        - Ensure solutions adhere to privacy and security standards throughout the development process, maintaining the integrity of sensitive data
+        - Leveraging large language models (LLMs) and graph neural networks to analyze vulnerabilities in blockchain smart contracts
+        - Developing federated learning frameworks to enhance collaborative research and practical applications across smart city systems
+        - Designing machine learning solutions for trajectory prediction at traffic intersections, utilizing decentralized data to improve accuracy and reliability
 
     - title: Doctoral Researcher
       institution: L3S Research Center, Leibniz University Hannover, Germany
