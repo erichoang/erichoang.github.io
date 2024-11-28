@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Dr. Hoang H. Nguyen (Eric Hoang) is a postdoctoral researcher at the Center for Urban Informatics and Progress, University of Tennessee at Chattanooga, since August 2024. His current work focuses on federated learning and the development of advanced machine learning solutions to enhance trajectory prediction at traffic intersections using decentralized data sources, while also exploring blockchain security through vulnerability analysis in smart contracts.
+Dr. Hoang H. Nguyen (Eric Hoang) is a postdoctoral researcher at the Center for Urban Informatics and Progress, University of Tennessee at Chattanooga, from August 2024. His current work focuses on federated learning and the development of advanced machine learning solutions to enhance trajectory prediction at traffic intersections using decentralized data sources while also exploring blockchain security through vulnerability analysis in smart contracts.
 
 Dr. Nguyen was a doctoral researcher at the L3S Research Center, Leibniz University Hannover, from 2020 to 2024. He was also a visiting student and later a research associate at the School of Computing and Information Systems, Singapore Management University, from 2016 to 2018. In 2017, he earned his Master of Engineering degree in Computer Science from Ho Chi Minh City University of Technology (HCMUT), Vietnam, and completed his Dr. rer. nat. (equivalent to Ph.D.) in Computer Science at Leibniz University Hannover, Germany, in 2024.
 
