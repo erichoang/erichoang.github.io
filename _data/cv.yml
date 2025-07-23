@@ -31,9 +31,17 @@
 - title: Working Experience
   type: time_table
   contents:
+    - title: Research Assistant Professor
+      institution: UTC Research Institute, The University of Tennessee at Chattanooga, USA
+      year: 2025 - Present
+      description:
+        - Designing graph machine learning solutions for multi-object, multi-camera tracking and trajectory prediction at traffic intersections, leveraging decentralized data sources to improve accuracy and robustness
+        - Developing federated learning frameworks to support collaborative research and real-world deployment in smart city systems
+        - Integrating large language models (LLMs) with graph neural networks to detect and analyze vulnerabilities in blockchain smart contracts
+
     - title: Postdoctoral Researcher
-      institution: Center for Urban Informatics and Progress, University of Tennessee at Chattanooga, USA
-      year: 2024 - Present
+      institution: Center for Urban Informatics and Progress, The University of Tennessee at Chattanooga, USA
+      year: 2024 - 2025
       description:
         - Leveraging large language models (LLMs) and graph neural networks to analyze vulnerabilities in blockchain smart contracts
         - Developing federated learning frameworks to enhance collaborative research and practical applications across smart city systems
@@ -94,20 +102,22 @@
   type: time_table
   contents: 
     - title: Conferences
-      year: 2018 - 2024
+      year: 2018 - 2025
       items:
+        - ACM Multimedia (ACM MM 2025)
         - AAAI Conference on Artificial Intelligence (AAAI 2025, 2024, 2023)
         - International Conference on Software Engineering (ICSE 2025, 2018)
         - International Conference on Software Maintenance and Evolution (ICSME 2024)
     - title: Journals
-      year: 2022 - 2024
+      year: 2022 - 2025
       items:
-        - Information and Software Technology, Elsevier (2024, 2023)
+        - Information and Software Technology, Elsevier (2025, 2024, 2023)
+        - Empirical Software Engineering, Springer (2025)
+        - IEEE Transactions on Software Engineering, IEEE (2025, 2024)
         - IEEE Transactions on Network and Service Management, IEEE (2024)
         - IEEE Network Magazine, IEEE (2024)
         - IEEE Transactions on Dependable and Secure Computing, IEEE (2024)
         - IEEE Transactions on Information Forensics and Security, IEEE (2024)
-        - IEEE Transactions on Software Engineering, IEEE (2024)
         - Knowledge-Based Systems, Elsevier (2023)
         - IEEE Transactions on Multimedia, IEEE (2022)
 
