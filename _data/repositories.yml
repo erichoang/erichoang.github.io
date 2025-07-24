@@ -1,6 +1,8 @@
 github_users:
   - erichoang
 
+repo_description_lines_max: 2
+
 github_repos:
   - MANDO-Project/ge-sc
   - MANDO-Project/ge-sc-machine

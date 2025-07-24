@@ -14,9 +14,18 @@ profile:
     <p>701 E M L King Blvd</p>
     <p>TN 37403, USA</p>
 
-news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 Dr. Hoang H. Nguyen (Eric Hoang) is a Research Assistant Professor at the UTC Research Institute, The University of Tennessee at Chattanooga (UTC), beginning August 2025. His current work focuses on federated learning and the development of advanced machine learning solutions to enhance trajectory prediction at traffic intersections using decentralized data sources, while also exploring blockchain security through vulnerability analysis in smart contracts.

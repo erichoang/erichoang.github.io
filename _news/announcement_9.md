@@ -2,6 +2,7 @@
 layout: post
 date: 2023-11-16
 inline: true
+related_posts: false
 ---
 
 “Inductive and Transductive Link Prediction for Criminal Network Analysis” paper has won the Best Paper Award at the [L3S Research Center](https://www.l3s.de/).
