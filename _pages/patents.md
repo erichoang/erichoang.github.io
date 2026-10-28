@@ -1,13 +1,13 @@
 ---
 layout: page
-title: patents & IP
+title: patents
 permalink: /patents/
-description: Patent applications and patent-pending technologies associated with my research and collaborators.
+description: Patent applications and patent-pending technologies associated with Dr. Nguyen's research and collaborators.
 nav: true
 nav_order: 3
 ---
 
-My research includes patent-pending work in human-interactive computer vision, edge AI, federated learning, and smart-contract security. The entries below describe **patent applications and related research IP**, not granted patents. Ownership and inventorship are governed by the corresponding official filings.
+Dr. Nguyen's research includes patent-pending work in human-interactive computer vision, edge AI, federated learning, and smart-contract security. The entries below describe **patent applications and related research IP**, not granted patents. Ownership and inventorship are governed by the corresponding official filings.
 
 ## Human-interactive multi-camera tracking
 

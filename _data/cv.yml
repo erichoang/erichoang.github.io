@@ -28,25 +28,25 @@
       description:
         - Major - Computer and Embedded Systems
 
-- title: Research Leadership, Intellectual Property and Professional Service
-  type: time_table
-  contents:
-    - title: Research translation and technology commercialization
-      year: 2026 - Present
-      items:
-        - Co-founder and CEO of UrbisIQ; iCityGuardian human-interactive, multi-camera AI platform
-        - Co-founder and CTO of MANDO SCAN; AI-powered security for blockchain smart contracts
-    - title: Intellectual property and patent-pending research
-      year: 2026
-      items:
-        - "iCityGuardian - U.S. provisional application 63/908,882 (patent pending)"
-        - "FLEET and personalized federated trajectory forecasting - U.S. patent-pending research (UTC and DENSO)"
-        - "MANDO smart-contract security - related Singapore/PCT application PCT/SG2026/050045; official inventor/title details to be verified"
-    - title: Scholarly service
-      year: 2025 - 2026
-      items:
-        - Poster Session Chair, IEEE Intelligent Vehicles Symposium (IV 2026)
-        - Organizing committee activities - Chattanooga Connect 2025 and 2026
+# - title: Research Leadership, Intellectual Property and Professional Service
+#   type: time_table
+#   contents:
+#     - title: Research translation and technology commercialization
+#       year: 2026 - Present
+#       items:
+#         - Co-founder and CEO of UrbisIQ; iCityGuardian human-interactive, multi-camera AI platform
+#         - Co-founder and CTO of MANDO SCAN; AI-powered security for blockchain smart contracts
+#     - title: Intellectual property and patent-pending research
+#       year: 2026
+#       items:
+#         - "iCityGuardian - U.S. provisional application 63/908,882 (patent pending)"
+#         - "FLEET and personalized federated trajectory forecasting - U.S. patent-pending research (UTC and DENSO)"
+#         - "MANDO smart-contract security - related Singapore/PCT application PCT/SG2026/050045; official inventor/title details to be verified"
+#     - title: Scholarly service
+#       year: 2025 - 2026
+#       items:
+#         - Poster Session Chair, IEEE Intelligent Vehicles Symposium (IV 2026)
+#         - Organizing committee activities - Chattanooga Connect 2025 and 2026
 
 - title: Working Experience
   type: time_table
