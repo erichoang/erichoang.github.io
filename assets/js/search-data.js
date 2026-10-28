@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-patents-amp-ip",
+          title: "patents &amp; IP",
+          description: "Patent applications and patent-pending technologies associated with my research and collaborators.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/patents/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
@@ -36,6 +43,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
+          },
+        },{id: "nav-activities",
+          title: "activities",
+          description: "Research leadership, technology translation, conference activities, and professional service.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/activities/";
           },
         },{id: "news-on-the-impact-of-dataset-size-a-twitter-classification-case-study-paper-is-accepted-at-wi-iat-2021-research-track",
           title: '“On the Impact of Dataset Size: A Twitter Classification Case Study” paper is...',
@@ -69,6 +83,30 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-lammon-language-model-combined-graph-neural-network-for-multi-target-multi-camera-tracking-in-online-scenarios-paper-a-collaboration-between-the-l3s-research-center-and-the-center-for-urban-informatics-and-progress-at-the-university-of-tennessee-at-chattanooga-has-been-officially-accepted-for-publication-in-the-machine-learning-journal",
           title: '“LaMMOn: Language Model Combined Graph Neural Network for Multi-Target Multi-Camera Tracking in Online...',
+          description: "",
+          section: "News",},{id: "news-dr-nguyen-joined-the-utc-research-institute-at-the-university-of-tennessee-at-chattanooga-as-a-research-assistant-professor-continuing-work-on-graph-machine-learning-smart-transportation-federated-learning-and-blockchain-security",
+          title: 'Dr. Nguyen joined the UTC Research Institute at the University of Tennessee at...',
+          description: "",
+          section: "News",},{id: "news-our-paper-mando-llm-heterogeneous-graph-transformers-with-large-language-models-for-smart-contract-vulnerability-detection-was-published-in-acm-transactions-on-software-engineering-and-methodology-tosem-volume-35-issue-6-article-144",
+          title: 'Our paper “MANDO-LLM: Heterogeneous Graph Transformers with Large Language Models for Smart Contract...',
+          description: "",
+          section: "News",},{id: "news-the-university-of-tennessee-at-chattanooga-featured-dr-nguyen-s-research-and-the-technology-transfer-work-behind-urbisiq-and-icityguardian-in-behind-the-research-at-utc",
+          title: 'The University of Tennessee at Chattanooga featured Dr. Nguyen’s research and the technology-transfer...',
+          description: "",
+          section: "News",},{id: "news-our-paper-pedestrian-crossing-intent-prediction-via-psychological-features-and-transformer-fusion-appeared-at-ieee-intelligent-vehicles-symposium-iv-2026-dr-nguyen-also-served-as-a-poster-session-chair-at-the-conference-in-detroit",
+          title: 'Our paper “Pedestrian Crossing Intent Prediction via Psychological Features and Transformer Fusion” appeared...',
+          description: "",
+          section: "News",},{id: "news-two-of-our-papers-were-accepted-at-ieee-itsc-2026-clife-camera-lidar-fusion-framework-for-edge-deployable-roadside-vru-perception-and-prisa-proactive-infrastructure-lidar-framework-for-intersection-safety-assessment",
+          title: 'Two of our papers were accepted at IEEE ITSC 2026: CLIFE: Camera-LiDAR Fusion...',
+          description: "",
+          section: "News",},{id: "news-two-full-papers-from-our-team-have-been-accepted-at-wacv-2027-covering-language-driven-multi-camera-tracking-and-map-free-traffic-conflict-anticipation-camera-ready-citation-details-will-be-posted-when-available",
+          title: 'Two full papers from our team have been accepted at WACV 2027, covering...',
+          description: "",
+          section: "News",},{id: "news-our-paper-trustworthy-evaluation-of-quantum-message-passing-isolating-circuit-contributions-in-traffic-forecasting-was-accepted-to-the-satquml-workshop-at-neurips-2026-with-firas-elhag-leading-the-presentation",
+          title: 'Our paper “Trustworthy Evaluation of Quantum Message Passing: Isolating Circuit Contributions in Traffic...',
+          description: "",
+          section: "News",},{id: "news-our-team-has-multiple-research-papers-accepted-for-the-transportation-research-board-trb-2027-annual-meeting-spanning-intelligent-transportation-and-traffic-safety-individual-paper-citations-will-be-added-as-their-proceedings-metadata-becomes-available",
+          title: 'Our team has multiple research papers accepted for the Transportation Research Board (TRB)...',
           description: "",
           section: "News",},{id: "projects-5gaps",
           title: '5GAPS',
