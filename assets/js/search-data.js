@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-patents-amp-ip",
-          title: "patents &amp; IP",
-          description: "Patent applications and patent-pending technologies associated with my research and collaborators.",
+        },{id: "nav-patents",
+          title: "patents",
+          description: "Patent applications and patent-pending technologies associated with Dr. Nguyen&#39;s research and collaborators.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/patents/";
