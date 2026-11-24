@@ -109,12 +109,21 @@
           {% assign more_authors_hide = more_authors_hide | append: 's' %}
         {%- endif -%}
         {% assign more_authors_show = '' %}
+        {%- assign hidden_self_name = '' -%}
         {%- for author in entry.author_array offset: author_array_limit -%}
           {% assign more_authors_show = more_authors_show | append: author.first | append: ' ' | append: author.last %}
           {% unless forloop.last %}
             {% assign more_authors_show = more_authors_show | append: ', ' %}
           {% endunless %}
+          {%- assign hidden_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
+          {%- if site.scholar.last_name contains hidden_last_name and site.scholar.first_name contains author.first -%}
+            {% assign hidden_self_name = author.first | append: ' ' | append: hidden_last_name %}
+          {%- endif -%}
         {%- endfor -%}
+        {%- comment -%} Name the site owner in the collapsed label when truncation hides them; the label is replaced on expand, so the name is not shown twice. {%- endcomment -%}
+        {%- if hidden_self_name != '' -%}
+          {% assign more_authors_hide = more_authors_hide | append: ', including ' | append: hidden_self_name %}
+        {%- endif -%}
         {%- assign more_authors_show = more_authors_show | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
         , and
         <span

@@ -2,17 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Assistant Professor | Graph Machine Learning • Blockchain Security • Smart Transportation | <a href='https://www.utc.edu/research/research-institute'>UTC Research Institute, The University of Tennessee at Chattanooga</a>.
+subtitle: Research Assistant Professor | Multimodal AI • AI Evaluation & Benchmarks • Graph Learning • Software Security | <a href='https://www.utc.edu/research/research-institute'>UTC Research Institute / CUIP, The University of Tennessee at Chattanooga</a>.
 
 profile:
   align: right
   image: profile-square-10-2024.jpg
   image_cicular: true # crops the image to make it circular
-  address: >
+  more_info: >
     <p>UTC Research Institute</p>
     <p>University of Tennessee at Chattanooga</p>
     <p>701 E M L King Blvd</p>
     <p>TN 37403, USA</p>
+    <p><a href="mailto:dr.hhn@hoanghnguyen.com">dr.hhn@hoanghnguyen.com</a></p>
+    <p><a href="mailto:huuhoang-nguyen@utc.edu">huuhoang-nguyen@utc.edu</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,10 +30,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Dr. Hoang H. Nguyen (Eric Hoang) is a Research Assistant Professor at the UTC Research Institute, The University of Tennessee at Chattanooga (UTC), beginning August 2025. His current work focuses on federated learning and the development of advanced machine learning solutions to enhance trajectory prediction at traffic intersections using decentralized data sources, while also exploring blockchain security through vulnerability analysis in smart contracts.
+Dr. Hoang H. Nguyen (Eric) is a Research Assistant Professor at the UTC Research Institute and the Center for Urban Informatics and Progress (CUIP), University of Tennessee at Chattanooga (UTC), since August 2025. His research spans multimodal AI and computer vision, AI evaluation and benchmarking, graph neural networks, federated and edge AI, and software engineering and security.
 
-Previously, Dr. Nguyen was a postdoctoral researcher at the Center for Urban Informatics and Progress (CUIP) at UTC from August 2024 to July 2025. From 2020 to 2024, he was a doctoral researcher at the L3S Research Center, Leibniz University Hannover. He also served as a visiting student and later a research associate at the School of Computing and Information Systems, Singapore Management University, from 2016 to 2018. In 2017, he earned his Master of Engineering degree in Computer Science from Ho Chi Minh City University of Technology (HCMUT), Vietnam, and completed his Dr. rer. nat. (equivalent to Ph.D.) in Computer Science at Leibniz University Hannover, Germany, in 2024.
+His work follows two complementary research directions:
 
-With over fifteen years of experience in Software Engineering and Graph Mining across both industry and academia, Dr. Nguyen has worked extensively on developing platforms to accelerate investigative processes in collaboration with law enforcement agencies (LEAs) from more than fifteen countries. His contributions include frameworks for managing blockchain-powered social network data and identifying critical security vulnerabilities in blockchain smart contracts.
+**Multimodal AI, benchmarking, and intelligent systems.** Dr. Nguyen works on language-guided multi-camera video understanding, evaluation of AI systems on real-world data, and human-interactive AI. His research also includes personalized federated learning, edge-deployable trajectory forecasting, and intelligent systems for transportation and public safety.
 
-His research interests include Federated Learning, Graph Mining, Machine Learning, Graph Learning, Social Network Analysis, Program Analysis, Software Security, and Blockchain Smart Contracts.
+**Graph learning, LLMs, and software security.** Dr. Nguyen has led the MANDO research series on smart-contract vulnerability detection, advancing from heterogeneous graph embeddings and graph transformers to LLM-enhanced vulnerability detection. His work combines graph representation learning, program analysis, and software engineering to develop practical AI-assisted security tools.
+
+Previously, he was a postdoctoral researcher at CUIP, UTC (2024–2025), and a full-time researcher at the L3S Research Center, Leibniz University Hannover, Germany (2020–2024). At L3S, he developed technologies supporting investigative analysis in collaboration with law enforcement agencies across more than fifteen countries. Earlier, he served as a research assistant and research associate at Singapore Management University (2016–2018), focusing on program analysis and Android security. He also worked in industry as a software engineer and Android team lead.
+
+Dr. Nguyen earned his **Dr. rer. nat. (Ph.D.) in Computer Science** from Leibniz University Hannover, Germany (2024), an **M.Eng. in Computer Science (Computer Security)** from Ho Chi Minh City University of Technology (2017), and a **B.Sc. in Electronics and Telecommunications** from Ho Chi Minh City University of Science (2013).
+
+He is the lead inventor on four [patent-pending invention families](/patents/) and is involved in research-to-product translation through UrbisIQ, which he co-founded, and the application of MANDO research to AI-assisted smart-contract security.
