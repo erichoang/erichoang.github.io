@@ -2,9 +2,13 @@
   type: map
   contents:
     - name: Full Name
-      value: NGUYEN, Huu Hoang
-    - name: Date of Birth
-      value: January 21st, 1990
+      value: Hoang H. Nguyen (Eric), Ph.D. (Huu Hoang Nguyen)
+    - name: Position
+      value: Research Assistant Professor, UTC Research Institute / CUIP, University of Tennessee at Chattanooga
+    - name: Email
+      value: <a href="mailto:dr.hhn@hoanghnguyen.com">dr.hhn@hoanghnguyen.com</a> (primary) · <a href="mailto:huuhoang-nguyen@utc.edu">huuhoang-nguyen@utc.edu</a> (academic)
+    - name: Online
+      value: <a href="https://hoanghnguyen.com/">hoanghnguyen.com</a> · <a href="https://github.com/erichoang">GitHub</a> · <a href="https://www.linkedin.com/in/mrerichoang">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=cDB2Tt8AAAAJ">Google Scholar</a>
     - name: Languages
       value: English, Vietnamese
 
@@ -28,51 +32,55 @@
       description:
         - Major - Computer and Embedded Systems
 
-# - title: Research Leadership, Intellectual Property and Professional Service
-#   type: time_table
-#   contents:
-#     - title: Research translation and technology commercialization
-#       year: 2026 - Present
-#       items:
-#         - Co-founder and CEO of UrbisIQ; iCityGuardian human-interactive, multi-camera AI platform
-#         - Co-founder and CTO of MANDO SCAN; AI-powered security for blockchain smart contracts
-#     - title: Intellectual property and patent-pending research
-#       year: 2026
-#       items:
-#         - "iCityGuardian - U.S. provisional application 63/908,882 (patent pending)"
-#         - "FLEET and personalized federated trajectory forecasting - U.S. patent-pending research (UTC and DENSO)"
-#         - "MANDO smart-contract security - related Singapore/PCT application PCT/SG2026/050045; official inventor/title details to be verified"
-#     - title: Scholarly service
-#       year: 2025 - 2026
-#       items:
-#         - Poster Session Chair, IEEE Intelligent Vehicles Symposium (IV 2026)
-#         - Organizing committee activities - Chattanooga Connect 2025 and 2026
+- title: Patent Applications
+  type: time_table
+  contents:
+    - title: System and Method for Human-Interactive, Real-Time Multi-Camera Tracking
+      institution: U.S. Application No. 19/857,895; corresponding PCT/US26/53548
+      year: Filed Oct 30, 2026
+      description:
+        - Lead Inventor; application pending
+    - title: System and Method for Real-Time Edge-Deployable Personalized Federated Learning for Trajectory Prediction at Urban Intersections
+      institution: U.S. Application No. 19/631,335
+      year: Filed Mar 27, 2026
+      description:
+        - Lead Inventor; application pending
+    - title: System and Method for Personalized Federated Learning for Multi-Agent Trajectory Forecasting
+      institution: U.S. Application No. 19/629,128
+      year: Filed Mar 26, 2026
+      description:
+        - Lead Inventor; application pending
+    - title: Electronic Platform for Detecting Bugs in Smart Contract Code
+      institution: PCT/SG2026/050045 (Singapore Management University)
+      year: Filed Jan 23, 2026
+      description:
+        - Lead Inventor; internationally published Jul 30, 2026; application pending
 
 - title: Working Experience
   type: time_table
   contents:
     - title: Research Assistant Professor
-      institution: UTC Research Institute, The University of Tennessee at Chattanooga, USA
-      year: 2025 - Present
+      institution: UTC Research Institute / Center for Urban Informatics and Progress (CUIP), The University of Tennessee at Chattanooga, USA
+      year: Aug 2025 - Present
       description:
-        - Designing graph machine learning solutions for multi-object, multi-camera tracking and trajectory prediction at traffic intersections, leveraging decentralized data sources to improve accuracy and robustness
-        - Developing federated learning frameworks to support collaborative research and real-world deployment in smart city systems
-        - Integrating large language models (LLMs) with graph neural networks to detect and analyze vulnerabilities in blockchain smart contracts
+        - Research on multimodal perception, language-guided multi-camera understanding, graph-based reasoning, and AI systems for urban decision support
+        - Co-authored the Refer-CityFlow/M3Track benchmark for language-driven multi-target multi-camera tracking (WACV 2027, accepted; 40 cameras, 7,699 natural-language queries)
+        - Leading research on sensor fusion, personalized federated trajectory forecasting, and edge AI pipelines; graduate mentoring and industry-university collaborations
 
     - title: Postdoctoral Researcher
       institution: Center for Urban Informatics and Progress, The University of Tennessee at Chattanooga, USA
-      year: 2024 - 2025
+      year: Aug 2024 - Jul 2025
       description:
         - Leveraging large language models (LLMs) and graph neural networks to analyze vulnerabilities in blockchain smart contracts
         - Developing federated learning frameworks to enhance collaborative research and practical applications across smart city systems
         - Designing machine learning solutions for trajectory prediction at traffic intersections, utilizing decentralized data to improve accuracy and reliability
 
-    - title: Doctoral Researcher
+    - title: Researcher (Full-Time, TV-L E13)
       institution: L3S Research Center, Leibniz University Hannover, Germany
-      year: 2020 - 2024
+      year: Feb 2020 - Jul 2024
       description:
+        - Led the MANDO, MANDO-GURU, and MANDO-HGT research on graph-based smart-contract security, extended by MANDO-LLM (ACM TOSEM 2026) with heterogeneous graph transformers and large language models
         - Utilizing graph embeddings to enhance investigative capabilities by predicting unseen connections in criminal networks
-        - Employing graph representation learning for vulnerability detection in blockchain smart contracts
         - Applying graph neural networks to analyze data from cubelet sensors to enhance the accuracy of predicting multiple object trajectories
         - Developing a database to manage and analyze large-scale blockchain-powered social network data
 
@@ -126,6 +134,7 @@
       items:
         - ACM Multimedia (ACM MM 2026, 2025)
         - AAAI Conference on Artificial Intelligence (AAAI 2027, 2026, 2025, 2024, 2023)
+        - Asian Conference on Machine Learning (ACML 2026)
         - International Conference on Software Engineering (ICSE 2025, 2018)
         - International Conference on Software Maintenance and Evolution (ICSME 2024)
     - title: Journals
@@ -164,17 +173,19 @@
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Graph Mining
+    - title: Multimodal AI and Intelligent Systems
       items:
-        - Machine Learning 
-        - Graph Learning
-        - Social Network Analysis
-    - title: Software Engineering
+        - Multimodal AI and Computer Vision
+        - AI Evaluation, Dataset and Benchmark Development
+        - Language-Guided Multi-Camera Video Understanding
+        - Human-Interactive and Human-in-the-Loop AI Systems
+        - Federated Learning and Edge AI
+    - title: Graph Learning and Software Security
       items:
-        - Program Analysis
-        - Software Security
-        - Blockchain Technology
-        - Smart Contracts
+        - Graph Neural Networks and Graph Representation Learning
+        - Software Engineering and Program Analysis
+        - GNN- and LLM-Based Software Vulnerability Detection
+        - Blockchain Smart Contracts
 
 # - title: Other Interests
 #   type: list
