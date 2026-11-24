@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-patents",
           title: "patents",
-          description: "Patent applications and patent-pending technologies associated with Dr. Nguyen&#39;s research and collaborators.",
+          description: "Patent applications and patent-pending inventions arising from Dr. Nguyen&#39;s research.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/patents/";
@@ -99,8 +99,8 @@ ninja.data = [{
           section: "News",},{id: "news-two-of-our-papers-were-accepted-at-ieee-itsc-2026-clife-camera-lidar-fusion-framework-for-edge-deployable-roadside-vru-perception-and-prisa-proactive-infrastructure-lidar-framework-for-intersection-safety-assessment",
           title: 'Two of our papers were accepted at IEEE ITSC 2026: CLIFE: Camera-LiDAR Fusion...',
           description: "",
-          section: "News",},{id: "news-two-full-papers-from-our-team-have-been-accepted-at-wacv-2027-covering-language-driven-multi-camera-tracking-and-map-free-traffic-conflict-anticipation-camera-ready-citation-details-will-be-posted-when-available",
-          title: 'Two full papers from our team have been accepted at WACV 2027, covering...',
+          section: "News",},{id: "news-two-full-papers-from-our-team-have-been-accepted-at-wacv-2027-refer-cityflow-and-m3track-a-benchmark-dataset-and-reference-framework-for-language-driven-multi-target-multi-camera-tracking-and-map-free-conflict-anticipation-at-urban-intersections-when-edge-feature-attention-helps-and-when-topology-suffices-see-publications-proceedings-details-will-be-added-when-available",
+          title: 'Two full papers from our team have been accepted at WACV 2027: Refer-CityFlow...',
           description: "",
           section: "News",},{id: "news-our-paper-trustworthy-evaluation-of-quantum-message-passing-isolating-circuit-contributions-in-traffic-forecasting-was-accepted-to-the-satquml-workshop-at-neurips-2026-with-firas-elhag-leading-the-presentation",
           title: 'Our paper “Trustworthy Evaluation of Quantum Message Passing: Isolating Circuit Contributions in Traffic...',
@@ -113,6 +113,16 @@ ninja.data = [{
           description: "The aim of the 5GAPS project is to digitally recreate Hannover in a multi-dimensional spatio-temporal coordinate system in real time. This will create a dynamic digital twin of urban outdoor areas as well as indoor areas in buildings or commercially used halls.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_5gaps.html";
+            },},{id: "projects-federated-amp-edge-ai-for-intelligent-transportation",
+          title: 'Federated &amp;amp; Edge AI for Intelligent Transportation',
+          description: "Personalized federated learning and edge AI for multi-agent trajectory forecasting at urban intersections, developed in a UTC–DENSO research collaboration.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_federated_edge_ai.html";
+            },},{id: "projects-icityguardian-refer-cityflow-amp-m3track",
+          title: 'iCityGuardian / Refer-CityFlow &amp;amp; M3Track',
+          description: "Language-guided, human-interactive multi-camera AI, covering natural-language target retrieval, cross-camera object association, and benchmarking of multimodal video understanding.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_icityguardian.html";
             },},{id: "projects-libraryguru",
           title: 'LibraryGuru',
           description: "LibraryGuru internally builds correlation databases among various functionality descriptions and Android APIs. These correlations are extracted from Android development tutorials, and SDK documents with domain-specific code parsing and natural language processing techniques adapted for functional APIs and event callback APIs separately and are matched against functionality queries to recommend relevant APIs for developers.",

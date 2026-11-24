@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://erichoang.github.io/sitemap.xml
+Sitemap: https://hoanghnguyen.com/sitemap.xml
