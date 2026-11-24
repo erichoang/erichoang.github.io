@@ -17,18 +17,32 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # needed to diff a pull request against its base
       - name: Setup Node.js ⚙️
         uses: actions/setup-node@v4
       - name: Install Prettier 💾
-        run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
+        # install the versions pinned in package-lock.json
+        run: npm ci
+      - name: Select files 🗂️
+        # pull requests check only the files they add or change; pushes check the whole repository
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          if [ "$EVENT_NAME" = "pull_request" ]; then
+            git diff --name-only -z --diff-filter=ACMR "$BASE_SHA"...HEAD > "$RUNNER_TEMP/prettier-files"
+          else
+            printf '.\0' > "$RUNNER_TEMP/prettier-files"
+          fi
       - name: Prettier Check 🔎
         id: prettier
-        run: npx prettier . --check
+        run: xargs -0 -r npx prettier --check --ignore-unknown < "$RUNNER_TEMP/prettier-files"
       - name: Create diff 📝
         # https://docs.github.com/en/actions/learn-github-actions/expressions#failure
         if: ${{ failure() }}
         run: |
-          npx prettier . --write
+          xargs -0 -r npx prettier --write --ignore-unknown < "$RUNNER_TEMP/prettier-files"
           git diff -- . ':(exclude)package-lock.json' ':(exclude)package.json' > diff.txt
           npm install -g diff2html-cli
           diff2html -i file -s side -F diff.html -- diff.txt

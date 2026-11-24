@@ -46,4 +46,4 @@ Related research: the [MANDO](/projects/) research series on graph-based and LLM
 
 - [MANDO research repositories](https://github.com/MANDO-Project)
 
-*Patent-pending refers to a pending application and does not imply that a patent has been granted. This page is a research overview rather than a legal patent register.*
+_Patent-pending refers to a pending application and does not imply that a patent has been granted. This page is a research overview rather than a legal patent register._

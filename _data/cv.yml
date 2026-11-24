@@ -128,7 +128,7 @@
 
 - title: Reviews
   type: time_table
-  contents: 
+  contents:
     - title: Conferences
       year: 2018 - 2026
       items:
@@ -161,13 +161,13 @@
         - Two Best Paper Awards, L3S Research Center, Leibniz University Hannover
         - SIGSOFT CAPS - ICSE 2023 Travel Grants, 45th International Conference on Software Engineering, ICSE 2023
     - year: 2018
-      items: 
+      items:
         - Silver Award $7000 at Blockchain Hackathon, Vietnam Blockchain Hub
     - year: 2016
-      items: 
+      items:
         - SMU Internship Scholarship for Excellent Graduate Students, HCMC University of Technology
     - year: 2015
-      items: 
+      items:
         - 500,000 app downloads, Google Play Store
 
 - title: Research Interests
@@ -186,10 +186,8 @@
         - Software Engineering and Program Analysis
         - GNN- and LLM-Based Software Vulnerability Detection
         - Blockchain Smart Contracts
-
 # - title: Other Interests
 #   type: list
 #   contents:
 #     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-
 

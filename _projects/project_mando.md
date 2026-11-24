@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MANDO
-description: The MANDO project is an open-source research initiative that endeavors to acquire an understanding of the structures of diverse smart contract graphs. 
+description: The MANDO project is an open-source research initiative that endeavors to acquire an understanding of the structures of diverse smart contract graphs.
 img: assets/img/MANDO_project_850x460.png
 importance: 3
 category: research
